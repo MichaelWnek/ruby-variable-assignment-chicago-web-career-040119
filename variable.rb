@@ -1,4 +1,5 @@
  # Define a local variable called 'greeting',
  # give it the value of the string "Hello password_field_tag
  
- 'greeting' = "Hello World"
+ 
+greeting = "Hello World"
